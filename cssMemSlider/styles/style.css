@@ -135,8 +135,7 @@ input {
   border-color: #ffffff;
 }
 
-/* todo mobile media query */
-/* @media screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .slider {
     display: flex;
     flex-direction: column;
@@ -145,4 +144,4 @@ input {
   .slider__pagination-wrapper {
     justify-content: center;
   }
-} */
+}
